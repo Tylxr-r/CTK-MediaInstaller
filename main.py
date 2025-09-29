@@ -29,10 +29,9 @@ def startDownload():
     else:
         finishlabel.configure(text='Download Complete', text_color='green')
 
-
 # System Settings
 customtkinter.set_appearance_mode('System')
-customtkinter.set_default_color_theme('rose.json')
+customtkinter.set_default_color_theme("dark-blue")
 
 # App Frame
 app = customtkinter.CTk()
