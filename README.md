@@ -1,5 +1,5 @@
 # CTK-MediaInstaller
-# built with customtkinter for the interface and yt_dlp for the heavy lifting.
+## built with customtkinter for the interface and yt_dlp for the heavy lifting.
 
 ## how it works
 
