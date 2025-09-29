@@ -1,6 +1,6 @@
 # CTK-MediaInstaller
 
-# a simple gui app that lets you download from youtube music youtube instagram and tiktok. built with customtkinter for the interface and yt_dlp for the heavy lifting.
+## a simple gui app that lets you download from youtube music youtube instagram and tiktok. built with customtkinter for the interface and yt_dlp for the heavy lifting.
 
 ## how it works
 
